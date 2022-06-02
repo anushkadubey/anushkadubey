@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anushka!](https://kunal-kushwaha.github.io) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px">, I'm [Anushka!](https://kunal-kushwaha.github.io) 
 ### About Me 🚀
 🎓 I’m a Full Stack Web Developer, pursuing my Bachelors in Electronics and Communication Engineering. </br>
 👨‍💻 I am interested in and enjoy learning about web development, open source and stuff. </br>
