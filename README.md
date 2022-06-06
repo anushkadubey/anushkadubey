@@ -1,9 +1,9 @@
 ## Hey👋, I'm Anushka!
 ### About Me 🚀
-🎓 I’m a Full Stack Web Developer, pursuing my Bachelors in Electronics and Communication Engineering. </br>
-👨‍💻 I am interested in and enjoy learning about web development, open source and stuff. </br>
-🌱 I am currently working on my knowledge of Data Structures and Algorithms. </br>
-🔭 Looking for opportunities to contribute to various Open Source Projects! </br>
+▪️ I’m a Full Stack Web Developer, pursuing my Bachelors in Electronics and Communication Engineering. </br>
+▪️ I am interested in and enjoy learning about web development, open source and stuff. </br>
+▪️ I am currently working on my knowledge of Data Structures and Algorithms. </br>
+▪️ Looking for opportunities to contribute to various Open Source Projects! </br>
 
 
 <h3 align="left">Connect with me:</h3>
