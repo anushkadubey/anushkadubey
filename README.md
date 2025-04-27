@@ -2,8 +2,7 @@
 ### About Me 👩‍💻
 ➤ I’m a web development enthusiast, currently working as an Associate Software Engineer at Lowe's. </br>
 ➤ I have done my bachelors from National Institute of Technology, Jamshedpur. </br>
-➤ I am interested in and enjoy learning about web development, open source and enhancing my skill set. </br>
-➤ I constantly try to understand and get a hang of the technological advancements happening in the world. </br>
+➤ I am interested in and enjoy learning about web development, open source and broadening my skill set. </br>
 ➤ Would love to cobntribute more in various Open Source Projects! </br>
 
 
