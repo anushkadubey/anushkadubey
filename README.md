@@ -2,7 +2,7 @@
 ### About Me 👩‍💻
 ➤ I’m a web developer, currently working as a Software Engineer at Lowe's. </br>
 ➤ I have done my bachelors from National Institute of Technology, Jamshedpur. </br>
-➤ Frontend-focused Software Engineer with experience in micro-frontends and independently delivering projects. </br>
+➤ Frontend-focused Software Engineer with experience in micro-frontends and webpack. </br>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -32,5 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkadubey&show_icons=true&locale=en&layout=compact" alt="anushkadubey" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushkadubey&show_icons=true&locale=en" alt="anushkadubey" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushkadubey&" alt="anushkadubey" /></p>
